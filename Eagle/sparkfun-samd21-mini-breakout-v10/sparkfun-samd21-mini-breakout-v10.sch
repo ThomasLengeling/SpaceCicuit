@@ -6689,6 +6689,13 @@ Iq: 55uA</text>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="202,1,132.08,157.48,U2,NC,,,,"/>
+<approved hash="113,1,172.043,61.2191,JP1,,,,,"/>
+<approved hash="113,1,214.037,58.1609,JP2,,,,,"/>
+<approved hash="113,1,233.003,58.6791,JP4,,,,,"/>
+<approved hash="113,1,28.5295,163.83,JP3,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>

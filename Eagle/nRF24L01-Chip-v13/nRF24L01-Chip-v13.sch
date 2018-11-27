@@ -6854,6 +6854,24 @@ This is the very popular, low cost, very low power RF transceiver from Nordic Se
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="102,1,63.5,162.56,VCC,RAW,,,,"/>
+<approved hash="102,1,91.44,114.3,VCC,RAW,,,,"/>
+<approved hash="201,1,91.44,114.3,VCC,VCC\, RAW,,,,"/>
+<approved hash="201,1,63.5,162.56,VCC,VCC\, RAW,,,,"/>
+<approved hash="202,1,91.44,149.86,U2,BP,,,,"/>
+<approved hash="104,1,127,119.38,U1,VDD,VCC,,,"/>
+<approved hash="104,1,116.84,83.82,U1,VSS,GND,,,"/>
+<approved hash="104,1,124.46,83.82,U1,VSS,GND,,,"/>
+<approved hash="104,1,129.54,83.82,U1,DVDD,N$5,,,"/>
+<approved hash="104,1,147.32,101.6,U1,VDD_PA,N$7,,,"/>
+<approved hash="104,1,124.46,119.38,U1,VDD,VCC,,,"/>
+<approved hash="104,1,121.92,119.38,U1,VDD,VCC,,,"/>
+<approved hash="104,1,121.92,83.82,U1,VSS,GND,,,"/>
+<approved hash="104,1,119.38,83.82,U1,VSS,GND,,,"/>
+<approved hash="104,1,114.3,83.82,U1,VSS,GND,,,"/>
+<approved hash="113,1,85.6827,101.31,JP1,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
